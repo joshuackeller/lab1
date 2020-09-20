@@ -5,6 +5,7 @@
 }
 .bob-con {
   display: flex;
+  flex-wrap: wrap;
   padding: 15px;
 
 }
@@ -18,4 +19,9 @@
   background-color: #546A76;
   color: white;
   width: 400px;
+}
+@media only screen and (max-width: 400px) {
+  .bob-pic {
+    width: 400px;
+  }
 }
