@@ -1,0 +1,21 @@
+.bob-wrap{
+  display: flex;
+  justify-content: center;
+
+}
+.bob-con {
+  display: flex;
+  padding: 15px;
+
+}
+.bob-pic {
+  height: 375px;
+
+  background-color: #DBD3C9;
+}
+.bob-text {
+  padding: 15px;
+  background-color: #546A76;
+  color: white;
+  width: 400px;
+}

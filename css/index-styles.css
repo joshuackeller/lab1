@@ -1,0 +1,13 @@
+.container {
+  margin-top: 25px;
+}
+.myimg {
+  height: 140px;
+}
+.btn {
+  background-color: #546A76;
+  color: white;
+}
+.btn:hover {
+  color: #B4CEB3;
+}

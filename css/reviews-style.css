@@ -1,0 +1,25 @@
+
+.rev-wrap{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+.rev-con {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rev {
+  background-color: #546A76;
+  color: white;
+  height: 300px;
+  width: 300px;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 10px;
+}
+
+.myline {
+  height: 5px;
+  background-color: #DBD3C9;
+}
